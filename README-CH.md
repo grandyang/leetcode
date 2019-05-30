@@ -1,5 +1,11 @@
 # LeetCode All In One
 
+![](https://img.shields.io/travis/skygragon/leetcode-cli.svg?style=flat)
+![](https://img.shields.io/badge/language-C++-red.svg)
+![](https://img.shields.io/badge/language-Java-yellow.svg)
+![](https://img.shields.io/badge/%3E-leetcode-green.svg)
+![](https://img.shields.io/badge/%3C-awesome-green.svg)
+
 [English](./README.md) | 简体中文
 
 ---
@@ -910,7 +916,7 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 <img src="leetcode-meet-me.gif" width="300"/><br>
 
-iOS 应用商店地址: 
+### iOS 应用商店地址: 
 
 [https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8](https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8)
 

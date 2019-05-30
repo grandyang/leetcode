@@ -1,5 +1,11 @@
 # LeetCode All In One
 
+![](https://img.shields.io/travis/skygragon/leetcode-cli.svg?style=flat)
+![](https://img.shields.io/badge/language-C++-red.svg)
+![](https://img.shields.io/badge/language-Java-yellow.svg)
+![](https://img.shields.io/badge/%3E-leetcode-green.svg)
+![](https://img.shields.io/badge/%3C-awesome-green.svg)
+
 English | [简体中文](./README-CH.md) 
 
 ---
@@ -912,7 +918,7 @@ This app displays all practical coding problems from leetcode.com, and provids t
 
 <img src="leetcode-meet-me.gif" width="300"/><br>
 
-Available on Apple Store: 
+### Available on Apple Store: 
 
 [https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8](https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8)
 
