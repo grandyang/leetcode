@@ -924,4 +924,4 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 ## 特别鸣谢
 
-感谢 [@notfresh](https://github.com/notfresh) 童鞋帮助博主从 [Grandyang博客园] (https://www.cnblogs.com/grandyang/)上提取文章的 Markdown 文本。
+感谢 [@notfresh](https://github.com/notfresh) 童鞋帮助博主从 [Grandyang博客园](https://www.cnblogs.com/grandyang/) 上提取文章的 Markdown 文本。
