@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/language-Java-yellow.svg)
 ![](https://img.shields.io/badge/%3E-leetcode-green.svg)
 ![](https://img.shields.io/badge/%3C-awesome-green.svg)
+[![HitCount](http://hits.dwyl.io/grandyang/leetcode.svg)](http://hits.dwyl.io/grandyang/leetcode)
 
 [English](./README.md) | 简体中文
 

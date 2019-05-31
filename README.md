@@ -5,6 +5,8 @@
 ![](https://img.shields.io/badge/language-Java-yellow.svg)
 ![](https://img.shields.io/badge/%3E-leetcode-green.svg)
 ![](https://img.shields.io/badge/%3C-awesome-green.svg)
+[![HitCount](http://hits.dwyl.io/grandyang/leetcode.svg)](http://hits.dwyl.io/grandyang/leetcode)
+
 
 English | [简体中文](./README-CH.md) 
 
@@ -926,4 +928,4 @@ This app displays all practical coding problems from leetcode.com, and provids t
 
 ## Special Thanks
 
-Special thanks to [@notfresh](https://github.com/notfresh) to help extract the markdown from my [cnblogs](https://www.cnblogs.com/grandyang/).
+Special thanks to [@notfresh](https://github.com/notfresh) to help extract the blog content in markdown format from my [cnblogs](https://www.cnblogs.com/grandyang/).
