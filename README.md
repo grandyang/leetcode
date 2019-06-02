@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/language-Java-yellow.svg)
 ![](https://img.shields.io/badge/%3E-leetcode-green.svg)
 ![](https://img.shields.io/badge/%3C-awesome-green.svg)
-[![HitCount](http://hits.dwyl.io/grandyang/leetcode.svg)](http://hits.dwyl.io/grandyang/leetcode)
 
 
 English | [简体中文](./README-CH.md) 
@@ -18,7 +17,7 @@ Same as this: [LeetCode All in One 题目讲解汇总(持续更新中...)](https
 
 Note: All explanations are written in Github Issues, **please do not create any new issue in this project since the problem index should be consistent with the issue index**, thanks!
 
-("$" means the problem is locked on Leetcode, "*" means the problem is related to Database, "#" means the problem is related to Shell.)
+('$' means the problem is locked on Leetcode, '*' means the problem is related to Database, '#' means the problem is related to Shell.)
 
 
 

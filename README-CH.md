@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/language-Java-yellow.svg)
 ![](https://img.shields.io/badge/%3E-leetcode-green.svg)
 ![](https://img.shields.io/badge/%3C-awesome-green.svg)
-[![HitCount](http://hits.dwyl.io/grandyang/leetcode.svg)](http://hits.dwyl.io/grandyang/leetcode)
+
 
 [English](./README.md) | 简体中文
 
@@ -17,7 +17,7 @@
 
 Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中新建任何的 Issue，因为博主希望题目编号和 Issue 编号保持一致**，多谢！
 
-("$" 代表锁住的题目, "*" 代表数据库类题目, "#" 代表脚本类题目。)
+('$' 代表锁住的题目, '*' 代表数据库类题目, '#' 代表脚本类题目。)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
