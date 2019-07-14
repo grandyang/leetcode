@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/%3C-awesome-green.svg)
 
 
-English | [简体中文](./README-CH.md) 
+English | [简体中文](./README-CN.md) 
 
 ---
 
@@ -23,6 +23,31 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|905|[Sort Array By Parity](https://github.com/grandyang/LeetCode-All-In-One/issues/905)|72.60%|Easy|
+|904|[Fruit Into Baskets](https://github.com/grandyang/LeetCode-All-In-One/issues/904)|41.70%|Medium|
+|903|[Valid Permutations for DI Sequence](https://github.com/grandyang/LeetCode-All-In-One/issues/903)|45.10%|Hard|
+|902|[Numbers At Most N Given Digit Set](https://github.com/grandyang/LeetCode-All-In-One/issues/902)|28.80%|Hard|
+|901|[Online Stock Span](https://github.com/grandyang/LeetCode-All-In-One/issues/901)|49.90%|Medium|
+|900|[RLE Iterator](https://github.com/grandyang/LeetCode-All-In-One/issues/900)|50.50%|Medium|
+|899|[Orderly Queue](https://github.com/grandyang/LeetCode-All-In-One/issues/899)|47.70%|Hard|
+|898|[Bitwise ORs of Subarrays](https://github.com/grandyang/LeetCode-All-In-One/issues/898)|34.70%|Medium|
+|897|[Increasing Order Search Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/897)|65.20%|Easy|
+|896|[Monotonic Array](https://github.com/grandyang/LeetCode-All-In-One/issues/896)|55.40%|Easy|
+|895|[Maximum Frequency Stack](https://github.com/grandyang/LeetCode-All-In-One/issues/895)|56.70%|Hard|
+|894|[All Possible Full Binary Trees](https://github.com/grandyang/LeetCode-All-In-One/issues/894)|71.30%|Medium|
+|893|[Groups of Special-Equivalent Strings](https://github.com/grandyang/LeetCode-All-In-One/issues/893)|63.00%|Easy|
+|892|[Surface Area of 3D Shapes](https://github.com/grandyang/LeetCode-All-In-One/issues/892)|56.10%|Easy|
+|891|[Sum of Subsequence Widths](https://github.com/grandyang/LeetCode-All-In-One/issues/891)|29.20%|Hard|
+|890|[Find and Replace Pattern](https://github.com/grandyang/LeetCode-All-In-One/issues/890)|71.30%|Medium|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/grandyang/LeetCode-All-In-One/issues/889)|60.70%|Medium|
+|888|[Fair Candy Swap](https://github.com/grandyang/LeetCode-All-In-One/issues/888)|56.90%|Easy|
+|887|[Super Egg Drop](https://github.com/grandyang/LeetCode-All-In-One/issues/887)|24.90%|Hard|
+|886|[Possible Bipartition](https://github.com/grandyang/LeetCode-All-In-One/issues/886)|40.90%|Medium|
+|885|[Spiral Matrix III](https://github.com/grandyang/LeetCode-All-In-One/issues/885)|64.80%|Medium|
+|884|[Uncommon Words from Two Sentences](https://github.com/grandyang/LeetCode-All-In-One/issues/884)|60.90%|Easy|
+|883|[Projection Area of 3D Shapes](https://github.com/grandyang/LeetCode-All-In-One/issues/883)|65.90%|Easy|
+|882|[Reachable Nodes In Subdivided Graph](https://github.com/grandyang/LeetCode-All-In-One/issues/882)|38.20%|Hard|
+|881|[Boats to Save People](https://github.com/grandyang/LeetCode-All-In-One/issues/881)|44.10%|Medium|
 |880|[Decoded String at Index](https://github.com/grandyang/LeetCode-All-In-One/issues/880)|23.00%|Medium|
 |879|Profitable Schemes|36.20%|Hard|
 |878|Nth Magical Number|25.40%|Hard|
