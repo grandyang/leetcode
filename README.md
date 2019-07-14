@@ -948,6 +948,16 @@ This app displays all practical coding problems from leetcode.com, and provids t
 
 [https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8](https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8)
 
+
+<br>
+
+## Wechat Reward
+
+If you like this project and want to sponsor the author, you can reward the author using Wechat by scanning the following QR code.
+
+<img src="reward.png" width="200"/><br>
+
+
 <br>
 
 ## Special Thanks

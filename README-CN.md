@@ -946,6 +946,16 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 [https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8](https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8)
 
+
+<br>
+
+## Wechat Reward
+
+喜欢本项目的朋友们可以扫描下方的二维码进行打赏，大家打赏时请留下微信号哦，可以跟博主加为好友哈，感激万分～
+
+<img src="reward.png" width="200"/><br>
+
+
 <br>
 
 ## 特别鸣谢
