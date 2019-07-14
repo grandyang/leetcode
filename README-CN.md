@@ -47,8 +47,8 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 |882|[Reachable Nodes In Subdivided Graph](https://github.com/grandyang/LeetCode-All-In-One/issues/882)|38.20%|Hard|
 |881|[Boats to Save People](https://github.com/grandyang/LeetCode-All-In-One/issues/881)|44.10%|Medium|
 |880|[Decoded String at Index](https://github.com/grandyang/LeetCode-All-In-One/issues/880)|23.00%|Medium|
-|879|Profitable Schemes|36.20%|Hard|
-|878|Nth Magical Number|25.40%|Hard|
+|879|[Profitable Schemes](https://github.com/grandyang/LeetCode-All-In-One/issues/879)|36.20%|Hard|
+|878|[Nth Magical Number](https://github.com/grandyang/LeetCode-All-In-One/issues/878)|25.40%|Hard|
 |877|[Stone Game](https://github.com/grandyang/LeetCode-All-In-One/issues/877)|61.10%|Medium|
 |876|[Middle of the Linked List](https://github.com/grandyang/LeetCode-All-In-One/issues/876)|63.80%|Easy|
 |875|[Koko Eating Bananas](https://github.com/grandyang/LeetCode-All-In-One/issues/875)|45.90%|Medium|
