@@ -1,0 +1,12 @@
+*.tex
+*.pdf
+*.pdf_tex
+output/
+
+_book/
+node_modules/
+.DS_Store
+package-lock.json
+book.docx
+book.epub
+book.mobi
