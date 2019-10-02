@@ -1,8 +1,6 @@
 # Summary
 
-* [序言](README-CN.md)
-
-* [题解索引](docs/index.md)  
+* [序言](README-CN.md) 
   * [1-100](docs/1-100.md)
   * [101-200](docs/101-200.md)
   * [201-300](docs/201-300.md)
@@ -14,5 +12,5 @@
   * [801-900](docs/801-900.md)
   * [901-1000](docs/901-1000.md)
 
-## LeetCode题解
+## LeetCode题解列表
 * [1-Two Sum](docs/1-Two-Sum.md)

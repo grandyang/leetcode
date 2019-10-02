@@ -1,7 +1,7 @@
 {
   "title": "LeetCode题解",
   "description": "leetcode",
-  "author": "grandyang",
+  "author": "sonnyhcl",
   "language": "zh-hans",
   "gitbook": "3.2.3",
   "root": ".",
@@ -38,7 +38,7 @@
     "favicon": "favicon.ico",
     "anchor-navigation-ex-toc": {
       "showLevel": false,
-      "associatedWithSummary": false,
+      "associatedWithSummary": true,
       "printLog": false,
       "multipleH1": false,
       "mode": "float",
@@ -61,7 +61,7 @@
     "github-buttons": {
       "buttons": [
         {
-          "user": "grandyang",
+          "user": "sonnyhcl",
           "repo": "leetcode",
           "type": "star",
           "size": "small",
@@ -70,7 +70,7 @@
       ]
     },
     "disqus": {
-      "shortName": "leetcode"
+      "shortName": "leetcode-sonnyhcl"
     },
     "sharing": {
       "douban": false,
