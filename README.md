@@ -17,10 +17,12 @@ Same as this: [LeetCode All in One 题目讲解汇总(持续更新中...)](https
 
 Note: All explanations are written in Github Issues, **please do not create any new issue in this project since the problem index should be consistent with the issue index**, thanks!
 
+## Problem List
+
 ('$' means the problem is locked on Leetcode, '*' means the problem is related to Database, '#' means the problem is related to Shell.)
 
 
-
+### 901-1000
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |905|[Sort Array By Parity](https://github.com/grandyang/LeetCode-All-In-One/issues/905)|72.60%|Easy|
@@ -28,6 +30,10 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |903|[Valid Permutations for DI Sequence](https://github.com/grandyang/LeetCode-All-In-One/issues/903)|45.10%|Hard|
 |902|[Numbers At Most N Given Digit Set](https://github.com/grandyang/LeetCode-All-In-One/issues/902)|28.80%|Hard|
 |901|[Online Stock Span](https://github.com/grandyang/LeetCode-All-In-One/issues/901)|49.90%|Medium|
+
+### 801-900
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |900|[RLE Iterator](https://github.com/grandyang/LeetCode-All-In-One/issues/900)|50.50%|Medium|
 |899|[Orderly Queue](https://github.com/grandyang/LeetCode-All-In-One/issues/899)|47.70%|Hard|
 |898|[Bitwise ORs of Subarrays](https://github.com/grandyang/LeetCode-All-In-One/issues/898)|34.70%|Medium|
@@ -128,6 +134,10 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |803|[Bricks Falling When Hit](https://github.com/grandyang/LeetCode-All-In-One/issues/803)|22.90%|Hard|
 |802|[Find Eventual Safe States](https://github.com/grandyang/LeetCode-All-In-One/issues/802)|39.20%|Medium|
 |801|[Minimum Swaps To Make Sequences Increasing](https://github.com/grandyang/LeetCode-All-In-One/issues/801)|31.00%|Medium|
+
+### 701-800
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |800|[Similar RGB Color](https://github.com/grandyang/LeetCode-All-In-One/issues/800) $|54.50%|Easy|
 |799|[Champagne Tower](https://github.com/grandyang/LeetCode-All-In-One/issues/799)|29.90%|Medium|
 |798|[Smallest Rotation with Highest Score](https://github.com/grandyang/LeetCode-All-In-One/issues/798)|34.30%|Hard|
@@ -228,6 +238,11 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |703|[Kth Largest Element in a Stream](https://github.com/grandyang/LeetCode-All-In-One/issues/703)|39.60%|Easy|
 |702|[Search in a Sorted Array of Unknown Size](https://github.com/grandyang/LeetCode-All-In-One/issues/702)|43.00%|Medium|
 |701|[Insert into a Binary Search Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/701)|67.90%|Medium|
+
+### 601-700
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |700|[Search in a Binary Search Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/700)|62.70%|Easy|
 |699|[Falling Squares](https://github.com/grandyang/LeetCode-All-In-One/issues/699)|36.80%|Hard|
 |698|[Partition to K Equal Sum Subsets](https://github.com/grandyang/LeetCode-All-In-One/issues/698)|35.60%|Medium|
@@ -328,6 +343,10 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |603|Consecutive Available Seats $|54.50%|Easy|
 |602|Friend Requests II: Who Has the Most Friends  $|42.50%|Medium|
 |601|Human Traffic of Stadium|33.80%|Hard|
+
+### 501-600
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |600|[Non-negative Integers without Consecutive Ones](https://github.com/grandyang/LeetCode-All-In-One/issues/600)|27.40%|Hard|
 |599|[Minimum Index Sum of Two Lists](https://github.com/grandyang/LeetCode-All-In-One/issues/599)|48.00%|Easy|
 |598|[Range Addition II](https://github.com/grandyang/LeetCode-All-In-One/issues/598)|48.30%|Easy|
@@ -425,6 +444,10 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |503|[Next Greater Element II](https://github.com/grandyang/LeetCode-All-In-One/issues/503)|46.20%|Medium|
 |502|[IPO](https://github.com/grandyang/LeetCode-All-In-One/issues/502)|32.40%|Hard|
 |501|[Find Mode in Binary Search Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/501)|39.40%|Easy|
+
+### 401-500
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |500|[Keyboard Row](https://github.com/grandyang/LeetCode-All-In-One/issues/500)|60.20%|Easy|
 |499|[The Maze III](https://github.com/grandyang/LeetCode-All-In-One/issues/499)|32.00%|Hard|
 |498|[Diagonal Traverse](https://github.com/grandyang/LeetCode-All-In-One/issues/498)|46.20%|Medium|
@@ -525,6 +548,10 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |403|[Frog Jump](https://github.com/grandyang/LeetCode-All-In-One/issues/403)|31.70%|Hard|
 |402|[Remove K Digits](https://github.com/grandyang/LeetCode-All-In-One/issues/402)|25.90%|Medium|
 |401|[Binary Watch](https://github.com/grandyang/LeetCode-All-In-One/issues/401)|43.00%|Easy|
+
+### 301-400
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |400|[Nth Digit](https://github.com/grandyang/LeetCode-All-In-One/issues/400)|30.70%|Easy|
 |399|[Evaluate Division](https://github.com/grandyang/LeetCode-All-In-One/issues/399)|34.60%|Medium|
 |398|[Random Pick Index](https://github.com/grandyang/LeetCode-All-In-One/issues/398)|30.40%|Medium|
@@ -625,6 +652,10 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |303|[Range Sum Query - Immutable](https://github.com/grandyang/LeetCode-All-In-One/issues/303)|25.70%|Easy|
 |302|[Smallest Rectangle Enclosing Black Pixels](https://github.com/grandyang/LeetCode-All-In-One/issues/302) $|36.70%|Hard|
 |301|[Remove Invalid Parentheses](https://github.com/grandyang/LeetCode-All-In-One/issues/301)|27.00%|Hard|
+
+### 201-300
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |300|[Longest Increasing Subsequence](https://github.com/grandyang/LeetCode-All-In-One/issues/300)|31.50%|Medium|
 |299|[Bulls and Cows](https://github.com/grandyang/LeetCode-All-In-One/issues/299)|23.80%|Easy|
 |298|[Binary Tree Longest Consecutive Sequence](https://github.com/grandyang/LeetCode-All-In-One/issues/298) $|32.20%|Medium|
@@ -725,6 +756,10 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |203|[Remove Linked List Elements](https://github.com/grandyang/LeetCode-All-In-One/issues/203)|25.80%|Easy|
 |202|[Happy Number](https://github.com/grandyang/LeetCode-All-In-One/issues/202)|31.40%|Easy|
 |201|[Bitwise AND of Numbers Range](https://github.com/grandyang/LeetCode-All-In-One/issues/201)|23.30%|Medium|
+
+### 101-200
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |200|[Number of Islands](https://github.com/grandyang/LeetCode-All-In-One/issues/200)|21.90%|Medium|
 |199|[Binary Tree Right Side View](https://github.com/grandyang/LeetCode-All-In-One/issues/199)|27.10%|Medium|
 |198|[House Robber](https://github.com/grandyang/LeetCode-All-In-One/issues/198)|28.80%|Easy|
@@ -825,6 +860,10 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |103|[Binary Tree Zigzag Level Order Traversal](https://github.com/grandyang/LeetCode-All-In-One/issues/103)|26.40%|Medium|
 |102|[Binary Tree Level Order Traversal](https://github.com/grandyang/LeetCode-All-In-One/issues/102)|29.30%|Easy|
 |101|[Symmetric Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/101)|31.60%|Easy|
+
+### 1-100
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |100|[Same Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/100)|41.80%|Easy|
 |99|[Recover Binary Search Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/99)|24.30%|Hard|
 |98|[Validate Binary Search Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/98)|20.60%|Medium|
