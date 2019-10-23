@@ -15,12 +15,27 @@
 
 与博客园上相同: [LeetCode All in One 题目讲解汇总(持续更新中...)](https://www.cnblogs.com/grandyang/p/4606334.html)
 
-Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中新建任何的 Issue，因为博主希望题目编号和 Issue 编号保持一致**，多谢！
+Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中新建任何的 Issue 或者 Pull Request，因为博主希望题目编号和 Issue 编号保持一致**，多谢！
 
 ('$' 代表锁住的题目, '*' 代表数据库类题目, '#' 代表脚本类题目。)
 
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|919|[Complete Binary Tree Inserter](https://github.com/grandyang/LeetCode-All-In-One/issues/919)|55.70%|Medium|
+|918|[Maximum Sum Circular Subarray](https://github.com/grandyang/LeetCode-All-In-One/issues/918)|33.20%|Medium|
+|917|[Reverse Only Letters](https://github.com/grandyang/LeetCode-All-In-One/issues/917)|56.30%|Easy|
+|916|[Word Subsets](https://github.com/grandyang/LeetCode-All-In-One/issues/916)|45.90%|Medium|
+|915|[Partition Array into Disjoint Intervals](https://github.com/grandyang/LeetCode-All-In-One/issues/915)|43.90%|Medium|
+|914|[X of a Kind in a Deck of Cards](https://github.com/grandyang/LeetCode-All-In-One/issues/914)|34.00%|Easy|
+|913|[Cat and Mouse](https://github.com/grandyang/LeetCode-All-In-One/issues/913)|29.90%|Hard|
+|912|[Sort an Array](https://github.com/grandyang/LeetCode-All-In-One/issues/912)|62.90%|Medium|
+|911|[Online Election](https://github.com/grandyang/LeetCode-All-In-One/issues/911)|48.30%|Medium|
+|910|[Smallest Range II](https://github.com/grandyang/LeetCode-All-In-One/issues/910)|24.90%|Medium|
+|909|[Snakes and Ladders](https://github.com/grandyang/LeetCode-All-In-One/issues/909)|36.10%|Easy|
+|908|[Smallest Range I](https://github.com/grandyang/LeetCode-All-In-One/issues/908)|65.00%|Easy|
+|907|[Sum of Subarray Minimums](https://github.com/grandyang/LeetCode-All-In-One/issues/907)|29.40%|Medium|
+|906|[Super Palindromes](https://github.com/grandyang/LeetCode-All-In-One/issues/906)|30.80%|Hard|
 |905|[Sort Array By Parity](https://github.com/grandyang/LeetCode-All-In-One/issues/905)|72.60%|Easy|
 |904|[Fruit Into Baskets](https://github.com/grandyang/LeetCode-All-In-One/issues/904)|41.70%|Medium|
 |903|[Valid Permutations for DI Sequence](https://github.com/grandyang/LeetCode-All-In-One/issues/903)|45.10%|Hard|
@@ -62,44 +77,44 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 |867|[Transpose Matrix](https://github.com/grandyang/LeetCode-All-In-One/issues/867)|63.90%|Easy|
 |866|[Prime Palindrome](https://github.com/grandyang/LeetCode-All-In-One/issues/866)|20.00%|Medium|
 |865|[Smallest Subtree with all the Deepest Nodes](https://github.com/grandyang/LeetCode-All-In-One/issues/865)|55.40%|Medium|
-|864|Shortest Path to Get All Keys|35.70%|Hard|
+|864|[Shortest Path to Get All Keys](https://github.com/grandyang/LeetCode-All-In-One/issues/864)|35.70%|Hard|
 |863|[All Nodes Distance K in Binary Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/863)|46.80%|Medium|
-|862|Shortest Subarray with Sum at Least K|22.00%|Hard|
+|862|[Shortest Subarray with Sum at Least K](https://github.com/grandyang/LeetCode-All-In-One/issues/862)|22.00%|Hard|
 |861|[Score After Flipping Matrix](https://github.com/grandyang/LeetCode-All-In-One/issues/861)|69.30%|Medium|
 |860|[Lemonade Change](https://github.com/grandyang/LeetCode-All-In-One/issues/860)|50.20%|Easy|
 |859|[Buddy Strings](https://github.com/grandyang/LeetCode-All-In-One/issues/859)|27.60%|Easy|
 |858|[Mirror Reflection](https://github.com/grandyang/LeetCode-All-In-One/issues/858)|52.00%|Medium|
-|857|Minimum Cost to Hire K Workers|47.30%|Hard|
+|857|[Minimum Cost to Hire K Workers](https://github.com/grandyang/LeetCode-All-In-One/issues/857)|47.30%|Hard|
 |856|[Score of Parentheses](https://github.com/grandyang/LeetCode-All-In-One/issues/856)|55.90%|Medium|
 |855|[Exam Room](https://github.com/grandyang/LeetCode-All-In-One/issues/855)|38.10%|Medium|
-|854|K-Similar Strings|33.20%|Hard|
+|854|[K-Similar Strings](https://github.com/grandyang/LeetCode-All-In-One/issues/854)|33.20%|Hard|
 |853|[Car Fleet](https://github.com/grandyang/LeetCode-All-In-One/issues/853)|39.30%|Medium|
 |852|[Peak Index in a Mountain Array](https://github.com/grandyang/LeetCode-All-In-One/issues/852)|68.50%|Easy|
 |851|[Loud and Rich](https://github.com/grandyang/LeetCode-All-In-One/issues/851)|47.40%|Medium|
-|850|Rectangle Area II|44.00%|Hard|
+|850|[Rectangle Area II](https://github.com/grandyang/LeetCode-All-In-One/issues/850)|44.00%|Hard|
 |849|[Maximize Distance to Closest Person](https://github.com/grandyang/LeetCode-All-In-One/issues/849)|40.40%|Easy|
 |848|[Shifting Letters](https://github.com/grandyang/LeetCode-All-In-One/issues/848)|39.90%|Medium|
-|847|Shortest Path Visiting All Nodes|45.90%|Hard|
+|847|[Shortest Path Visiting All Nodes](https://github.com/grandyang/LeetCode-All-In-One/issues/847)|45.90%|Hard|
 |846|[Hand of Straights](https://github.com/grandyang/LeetCode-All-In-One/issues/846)|48.60%|Medium|
 |845|[Longest Mountain in Array](https://github.com/grandyang/LeetCode-All-In-One/issues/845)|34.00%|Medium|
 |844|[Backspace String Compare](https://github.com/grandyang/LeetCode-All-In-One/issues/844)|45.50%|Easy|
-|843|Guess the Word|42.60%|Hard|
+|843|[Guess the Word](https://github.com/grandyang/LeetCode-All-In-One/issues/843)|42.60%|Hard|
 |842|[Split Array into Fibonacci Sequence](https://github.com/grandyang/LeetCode-All-In-One/issues/842)|34.60%|Medium|
 |841|[Keys and Rooms](https://github.com/grandyang/LeetCode-All-In-One/issues/841)|59.70%|Medium|
 |840|[Magic Squares In Grid](https://github.com/grandyang/LeetCode-All-In-One/issues/840)|35.10%|Easy|
-|839|Similar String Groups|33.50%|Hard|
+|839|[Similar String Groups](https://github.com/grandyang/LeetCode-All-In-One/issues/839)|33.50%|Hard|
 |838|[Push Dominoes](https://github.com/grandyang/LeetCode-All-In-One/issues/838)|42.80%|Medium|
 |837|[New 21 Game](https://github.com/grandyang/LeetCode-All-In-One/issues/837)|29.50%|Medium|
 |836|[Rectangle Overlap](https://github.com/grandyang/LeetCode-All-In-One/issues/836)|45.50%|Easy|
 |835|[Image Overlap](https://github.com/grandyang/LeetCode-All-In-One/issues/835)|50.30%|Medium|
-|834|Sum of Distances in Tree|38.10%|Hard|
+|834|[Sum of Distances in Tree](https://github.com/grandyang/LeetCode-All-In-One/issues/834)|38.10%|Hard|
 |833|[Find And Replace in String](https://github.com/grandyang/LeetCode-All-In-One/issues/833)|44.50%|Medium|
 |832|[Flipping an Image](https://github.com/grandyang/LeetCode-All-In-One/issues/832)|71.30%|Easy|
 |831|[Masking Personal Information](https://github.com/grandyang/LeetCode-All-In-One/issues/831)|41.50%|Medium|
 |830|[Positions of Large Groups](https://github.com/grandyang/LeetCode-All-In-One/issues/830)|47.40%|Easy|
-|829|Consecutive Numbers Sum|32.10%|Hard|
-|828|Unique Letter String|38.10%|Hard|
-|827|Making A Large Island|42.10%|Hard|
+|829|[Consecutive Numbers Sum](https://github.com/grandyang/LeetCode-All-In-One/issues/829)|32.10%|Hard|
+|828|[Unique Letter String](https://github.com/grandyang/LeetCode-All-In-One/issues/828)|38.10%|Hard|
+|827|[Making A Large Island](https://github.com/grandyang/LeetCode-All-In-One/issues/827)|42.10%|Hard|
 |826|[Most Profit Assigning Work](https://github.com/grandyang/LeetCode-All-In-One/issues/826)|34.70%|Medium|
 |825|[Friends Of Appropriate Ages](https://github.com/grandyang/LeetCode-All-In-One/issues/825)|35.00%|Medium|
 |824|[Goat Latin](https://github.com/grandyang/LeetCode-All-In-One/issues/824)|56.70%|Easy|
@@ -923,6 +938,7 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 |3|[Longest Substring Without Repeating Characters](https://github.com/grandyang/LeetCode-All-In-One/issues/3)|20.60%|Medium|
 |2|[Add Two Numbers](https://github.com/grandyang/LeetCode-All-In-One/issues/2)|21.10%|Medium|
 |1|[Two Sum](https://github.com/grandyang/LeetCode-All-In-One/issues/1)|17.70%|Medium|
+
 
 
 <br>
