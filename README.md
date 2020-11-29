@@ -113,7 +113,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |874|[Walking Robot Simulation](https://github.com/grandyang/leetcode/issues/874)|31.70%|Easy|
 |873|[Length of Longest Fibonacci Subsequence](https://github.com/grandyang/leetcode/issues/873)|46.00%|Medium|
 |872|[Leaf-Similar Trees](https://github.com/grandyang/leetcode/issues/872)|63.10%|Easy|
-|871|Minimum Number of Refueling Stops|28.70%|Hard|
+|871|[Minimum Number of Refueling Stops](https://github.com/grandyang/leetcode/issues/871)|28.70%|Hard|
 |870|[Advantage Shuffle](https://github.com/grandyang/leetcode/issues/870)|42.20%|Medium|
 |869|[Reordered Power of 2](https://github.com/grandyang/leetcode/issues/869)|50.60%|Medium|
 |868|[Binary Gap](https://github.com/grandyang/leetcode/issues/868)|59.30%|Easy|
