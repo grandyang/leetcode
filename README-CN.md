@@ -22,6 +22,25 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|980|[Unique Paths III](https://github.com/grandyang/leetcode/issues/980)|77.10%|Hard|
+|979|[Distribute Coins in Binary Tree](https://github.com/grandyang/leetcode/issues/979)|69.30%|Medium|
+|978|[Longest Turbulent Subarray](https://github.com/grandyang/leetcode/issues/978)|46.60%|Medium|
+|977|[Squares of a Sorted Array](https://github.com/grandyang/leetcode/issues/977)|72.40%|Easy|
+|976|[Largest Perimeter Triangle](https://github.com/grandyang/leetcode/issues/976)|58.50%|Easy|
+|975|[Odd Even Jump](https://github.com/grandyang/leetcode/issues/975)|41.70%|Hard|
+|974|[Subarray Sums Divisible by K](https://github.com/grandyang/leetcode/issues/974)|50.30%|Medium|
+|973|[K Closest Points to Origin](https://github.com/grandyang/leetcode/issues/973)|64.40%|Medium|
+|972|[Equal Rational Numbers](https://github.com/grandyang/leetcode/issues/972)|41.80%|Hard|
+|971|[Flip Binary Tree To Match Preorder Traversal](https://github.com/grandyang/leetcode/issues/971)|46.10%|Medium|
+|970|[Powerful Integers](https://github.com/grandyang/leetcode/issues/970)|39.90%|Easy|
+|969|[Pancake Sorting](https://github.com/grandyang/leetcode/issues/969)|68.40%|Medium|
+|968|[Binary Tree Cameras](https://github.com/grandyang/leetcode/issues/968)|38.40%|Hard|
+|967|[Numbers With Same Consecutive Differences](https://github.com/grandyang/leetcode/issues/967)|44.30%|Medium|
+|966|[Vowel Spellchecker](https://github.com/grandyang/leetcode/issues/966)|47.70%|Medium|
+|965|[Univalued Binary Tree](https://github.com/grandyang/leetcode/issues/965)|67.60%|Easy|
+|964|[Least Operators to Express Number](https://github.com/grandyang/leetcode/issues/964)|44.70%|Hard|
+|963|[Minimum Area Rectangle II](https://github.com/grandyang/leetcode/issues/963)|51.60%|Medium|
+|962|[Maximum Width Ramp](https://github.com/grandyang/leetcode/issues/962)|46.00%|Medium|
 |961|[N-Repeated Element in Size 2N Array](https://github.com/grandyang/leetcode/issues/961)|74.20%|Easy|
 |960|[Delete Columns to Make Sorted III](https://github.com/grandyang/leetcode/issues/960)|54.00%|Hard|
 |959|[Regions Cut By Slashes](https://github.com/grandyang/leetcode/issues/959)|66.70%|Medium|
@@ -983,6 +1002,7 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 
 
+
 <br>
 
 ## 微信公众号
@@ -1002,7 +1022,7 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 ### iOS 应用商店地址: 
 
-[https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8](https://itunes.apple.com/us/app/leetcode-meet-me/id1227610436?mt=8)
+已下架，不再提供下载～
 
 
 <br>
