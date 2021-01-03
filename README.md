@@ -1034,6 +1034,9 @@ If you like this project and want to sponsor the author, you can reward the auth
 
 <img src="reward.png" width="200"/><br>
 
+Or you can also sponsor me by scanning the following Venmo QR code.
+
+<img src="venmo.gif" width="200"/><br>
 
 <br>
 

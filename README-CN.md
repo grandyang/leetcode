@@ -1034,6 +1034,10 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 <img src="reward.png" width="200"/><br>
 
 
+Q用 Venmo 的朋友们也可以打赏哦，感谢大家的支持～
+
+<img src="venmo.gif" width="200"/><br>
+
 <br>
 
 ## 特别鸣谢
