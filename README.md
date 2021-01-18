@@ -23,6 +23,31 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1005|[Maximize Sum Of Array After K Negations](https://github.com/grandyang/leetcode/issues/1005)|52.40%|Easy|
+|1004|[Max Consecutive Ones III](https://github.com/grandyang/leetcode/issues/1004)|60.50%|Medium|
+|1003|[Check If Word Is Valid After Substitutions](https://github.com/grandyang/leetcode/issues/1003)|56.10%|Medium|
+|1002|[Find Common Characters](https://github.com/grandyang/leetcode/issues/1002)|68.10%|Easy|
+|1001|[Grid Illumination](https://github.com/grandyang/leetcode/issues/1001)|36.60%|Hard|
+|1000|[Minimum Cost to Merge Stones](https://github.com/grandyang/leetcode/issues/1000)|40.40%|Hard|
+|999|[Available Captures for Rook](https://github.com/grandyang/leetcode/issues/999)|66.80%|Easy|
+|998|[Maximum Binary Tree II](https://github.com/grandyang/leetcode/issues/998)|63.70%|Medium|
+|997|[Find the Town Judge](https://github.com/grandyang/leetcode/issues/997)|49.80%|Easy|
+|996|[Number of Squareful Arrays](https://github.com/grandyang/leetcode/issues/996)|48.00%|Hard|
+|995|[Minimum Number of K Consecutive Bit Flips](https://github.com/grandyang/leetcode/issues/995)|49.60%|Hard|
+|994|[Rotting Oranges](https://github.com/grandyang/leetcode/issues/994)|49.60%|Medium|
+|993|[Cousins in Binary Tree](https://github.com/grandyang/leetcode/issues/993)|52.20%|Easy|
+|992|[Subarrays with K Different Integers](https://github.com/grandyang/leetcode/issues/992)|50.40%|Hard|
+|991|[Broken Calculator](https://github.com/grandyang/leetcode/issues/991)|46.40%|Medium|
+|990|[Satisfiability of Equality Equations](https://github.com/grandyang/leetcode/issues/990)|46.50%|Medium|
+|989|[Add to Array-Form of Integer](https://github.com/grandyang/leetcode/issues/989)|44.70%|Easy|
+|988|[Smallest String Starting From Leaf](https://github.com/grandyang/leetcode/issues/988)|46.60%|Medium|
+|987|[Vertical Order Traversal of a Binary Tree](https://github.com/grandyang/leetcode/issues/987)|37.60%|Medium|
+|986|[Interval List Intersections](https://github.com/grandyang/leetcode/issues/986)|68.10%|Medium|
+|985|[Sum of Even Numbers After Queries](https://github.com/grandyang/leetcode/issues/985)|60.70%|Easy|
+|984|[String Without AAA or BBB](https://github.com/grandyang/leetcode/issues/984)|38.50%|Medium|
+|983|[Minimum Cost For Tickets](https://github.com/grandyang/leetcode/issues/983)|62.60%|Medium|
+|982|[Triples with Bitwise AND Equal To Zero](https://github.com/grandyang/leetcode/issues/982)|56.10%|Hard|
+|981|[Time Based Key-Value Store](https://github.com/grandyang/leetcode/issues/981)|54.00%|Medium|
 |980|[Unique Paths III](https://github.com/grandyang/leetcode/issues/980)|77.10%|Hard|
 |979|[Distribute Coins in Binary Tree](https://github.com/grandyang/leetcode/issues/979)|69.30%|Medium|
 |978|[Longest Turbulent Subarray](https://github.com/grandyang/leetcode/issues/978)|46.60%|Medium|
@@ -1000,6 +1025,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |3|[Longest Substring Without Repeating Characters](https://github.com/grandyang/leetcode/issues/3)|20.60%|Medium|
 |2|[Add Two Numbers](https://github.com/grandyang/leetcode/issues/2)|21.10%|Medium|
 |1|[Two Sum](https://github.com/grandyang/leetcode/issues/1)|17.70%|Medium|
+
 
 
 
