@@ -22,6 +22,31 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1030|[Matrix Cells in Distance Order](https://github.com/grandyang/leetcode/issues/1030)|66.90%|Easy|
+|1029|[Two City Scheduling](https://github.com/grandyang/leetcode/issues/1029)|57.90%|Medium|
+|1028|[Recover a Tree From Preorder Traversal](https://github.com/grandyang/leetcode/issues/1028)|70.90%|Hard|
+|1027|[Longest Arithmetic Subsequence](https://github.com/grandyang/leetcode/issues/1027)|49.80%|Medium|
+|1026|[Maximum Difference Between Node and Ancestor](https://github.com/grandyang/leetcode/issues/1026)|69.40%|Medium|
+|1025|[Divisor Game](https://github.com/grandyang/leetcode/issues/1025)|66.20%|Easy|
+|1024|[Video Stitching](https://github.com/grandyang/leetcode/issues/1024)|49.00%|Medium|
+|1023|[Camelcase Matching](https://github.com/grandyang/leetcode/issues/1023)|57.40%|Medium|
+|1022|[Sum of Root To Leaf Binary Numbers](https://github.com/grandyang/leetcode/issues/1022)|71.50%|Easy|
+|1021|[Remove Outermost Parentheses](https://github.com/grandyang/leetcode/issues/1021)|79.00%|Easy|
+|1020|[Number of Enclaves](https://github.com/grandyang/leetcode/issues/1020)|58.90%|Medium|
+|1019|[Next Greater Node In Linked List](https://github.com/grandyang/leetcode/issues/1019)|58.20%|Medium|
+|1018|[Binary Prefix Divisible By 5](https://github.com/grandyang/leetcode/issues/1018)|47.80%|Easy|
+|1017|[Convert to Base -2](https://github.com/grandyang/leetcode/issues/1017)|59.60%|Medium|
+|1016|[Binary String With Substrings Representing 1 To N](https://github.com/grandyang/leetcode/issues/1016)|58.90%|Medium|
+|1015|[Smallest Integer Divisible by K](https://github.com/grandyang/leetcode/issues/1015)|41.80%|Medium|
+|1014|[Best Sightseeing Pair](https://github.com/grandyang/leetcode/issues/1014)|52.90%|Medium|
+|1013|[Partition Array Into Three Parts With Equal Sum](https://github.com/grandyang/leetcode/issues/1013)|49.10%|Easy|
+|1012|[Numbers With Repeated Digits](https://github.com/grandyang/leetcode/issues/1012)|37.80%|Hard|
+|1011|[Capacity To Ship Packages Within D Days](https://github.com/grandyang/leetcode/issues/1011)|59.70%|Medium|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://github.com/grandyang/leetcode/issues/1010)|50.10%|Medium|
+|1009|[Complement of Base 10 Integer](https://github.com/grandyang/leetcode/issues/1009)|61.50%|Easy|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://github.com/grandyang/leetcode/issues/1008)|78.80%|Medium|
+|1007|[Minimum Domino Rotations For Equal Row](https://github.com/grandyang/leetcode/issues/1007)|50.90%|Medium|
+|1006|[Clumsy Factorial](https://github.com/grandyang/leetcode/issues/1006)|53.70%|Medium|
 |1005|[Maximize Sum Of Array After K Negations](https://github.com/grandyang/leetcode/issues/1005)|52.40%|Easy|
 |1004|[Max Consecutive Ones III](https://github.com/grandyang/leetcode/issues/1004)|60.50%|Medium|
 |1003|[Check If Word Is Valid After Substitutions](https://github.com/grandyang/leetcode/issues/1003)|56.10%|Medium|
@@ -1024,6 +1049,7 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 |3|[Longest Substring Without Repeating Characters](https://github.com/grandyang/leetcode/issues/3)|20.60%|Medium|
 |2|[Add Two Numbers](https://github.com/grandyang/leetcode/issues/2)|21.10%|Medium|
 |1|[Two Sum](https://github.com/grandyang/leetcode/issues/1)|17.70%|Medium|
+
 
 
 
