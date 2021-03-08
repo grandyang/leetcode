@@ -23,6 +23,26 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1050|Actors and Directors Who Cooperated At Least Three Times * $|72.40%|Easy|
+|1049|[Last Stone Weight II](https://github.com/grandyang/leetcode/issues/1049)|45.40%|Medium|
+|1048|[Longest String Chain](https://github.com/grandyang/leetcode/issues/1048)|55.50%|Medium|
+|1047|[Remove All Adjacent Duplicates In String](https://github.com/grandyang/leetcode/issues/1047)|70.90%|Easy|
+|1046|[Last Stone Weight](https://github.com/grandyang/leetcode/issues/1046)|62.40%|Easy|
+|1045|Customers Who Bought All Products * $|68.40%|Medium|
+|1044|[Longest Duplicate Substring](https://github.com/grandyang/leetcode/issues/1044)|31.40%|Hard|
+|1043|[Partition Array for Maximum Sum](https://github.com/grandyang/leetcode/issues/1043)|67.10%|Medium|
+|1042|[Flower Planting With No Adjacent](https://github.com/grandyang/leetcode/issues/1042)|48.80%|Medium|
+|1041|[Robot Bounded In Circle](https://github.com/grandyang/leetcode/issues/1041)|55.00%|Medium|
+|1040|[Moving Stones Until Consecutive II](https://github.com/grandyang/leetcode/issues/1040)|54.10%|Medium|
+|1039|[Minimum Score Triangulation of Polygon](https://github.com/grandyang/leetcode/issues/1039)|50.10%|Medium|
+|1038|[Binary Search Tree to Greater Sum Tree](https://github.com/grandyang/leetcode/issues/1038)|82.30%|Medium|
+|1037|[Valid Boomerang](https://github.com/grandyang/leetcode/issues/1037)|37.80%|Easy|
+|1036|[Escape a Large Maze](https://github.com/grandyang/leetcode/issues/1036)|34.50%|Hard|
+|1035|[Uncrossed Lines](https://github.com/grandyang/leetcode/issues/1035)|56.10%|Medium|
+|1034|[Coloring A Border](https://github.com/grandyang/leetcode/issues/1034)|45.70%|Medium|
+|1033|[Moving Stones Until Consecutive](https://github.com/grandyang/leetcode/issues/1033)|43.20%|Easy|
+|1032|[Stream of Characters](https://github.com/grandyang/leetcode/issues/1032)|48.60%|Hard|
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://github.com/grandyang/leetcode/issues/1031)|58.90%|Medium|
 |1030|[Matrix Cells in Distance Order](https://github.com/grandyang/leetcode/issues/1030)|66.90%|Easy|
 |1029|[Two City Scheduling](https://github.com/grandyang/leetcode/issues/1029)|57.90%|Medium|
 |1028|[Recover a Tree From Preorder Traversal](https://github.com/grandyang/leetcode/issues/1028)|70.90%|Hard|
@@ -1050,6 +1070,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |3|[Longest Substring Without Repeating Characters](https://github.com/grandyang/leetcode/issues/3)|20.60%|Medium|
 |2|[Add Two Numbers](https://github.com/grandyang/leetcode/issues/2)|21.10%|Medium|
 |1|[Two Sum](https://github.com/grandyang/leetcode/issues/1)|17.70%|Medium|
+
 
 
 
