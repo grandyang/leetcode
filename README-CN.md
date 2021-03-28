@@ -22,6 +22,46 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1090|[Largest Values From Labels](https://github.com/grandyang/leetcode/issues/1090)|60.10%|Medium|
+|1089|[Duplicate Zeros](https://github.com/grandyang/leetcode/issues/1089)|51.60%|Easy|
+|1088|[Confusing Number II](https://github.com/grandyang/leetcode/issues/1088)|45.60%|Hard|
+|1087|Brace Expansion  $|63.20%|Medium|
+|1086|High Five  $|77.50%|Easy|
+|1085|Sum of Digits in the Minimum Number  $|75.10%|Easy|
+|1084|Sales Analysis III * $|54.80%|Easy|
+|1083|Sales Analysis II * $|50.80%|Easy|
+|1082|Sales Analysis I * $|73.90%|Easy|
+|1081|[Smallest Subsequence of Distinct Characters](https://github.com/grandyang/leetcode/issues/1081)|53.60%|Medium|
+|1080|[Insufficient Nodes in Root to Leaf Paths](https://github.com/grandyang/leetcode/issues/1080)|50.10%|Medium|
+|1079|[Letter Tile Possibilities](https://github.com/grandyang/leetcode/issues/1079)|75.90%|Medium|
+|1078|[Occurrences After Bigram](https://github.com/grandyang/leetcode/issues/1078)|65.00%|Easy|
+|1077|Project Employees III * $|78.00%|Medium|
+|1076|Project Employees II * $|52.80%|Easy|
+|1075|Project Employees I * $|66.20%|Easy|
+|1074|[Number of Submatrices That Sum to Target](https://github.com/grandyang/leetcode/issues/1074)|62.00%|Hard|
+|1073|[Adding Two Negabinary Numbers](https://github.com/grandyang/leetcode/issues/1073)|34.80%|Medium|
+|1072|[Flip Columns For Maximum Number of Equal Rows](https://github.com/grandyang/leetcode/issues/1072)|61.60%|Medium|
+|1071|[Greatest Common Divisor of Strings](https://github.com/grandyang/leetcode/issues/1071)|51.50%|Easy|
+|1070|Product Sales Analysis III * $|49.90%|Medium|
+|1069|Product Sales Analysis II * $|83.30%|Easy|
+|1068|Product Sales Analysis I * $|82.10%|Easy|
+|1067|Digit Count in Range  $|41.60%|Hard|
+|1066|Campus Bikes II  $|54.20%|Medium|
+|1065|Index Pairs of a String  $|61.00%|Easy|
+|1064|Fixed Point  $|64.90%|Easy|
+|1063|Number of Valid Subarrays  $|72.10%|Hard|
+|1062|Longest Repeating Substring  $|58.40%|Medium|
+|1061|Lexicographically Smallest Equivalent String  $|66.90%|Medium|
+|1060|Missing Element in Sorted Array  $|54.80%|Medium|
+|1059|All Paths from Source Lead to Destination  $|43.00%|Medium|
+|1058|Minimize Rounding Error to Meet Target  $|43.70%|Medium|
+|1057|[Campus Bikes ](https://github.com/grandyang/leetcode/issues/1057) $|57.80%|Medium|
+|1056|[Confusing Number ](https://github.com/grandyang/leetcode/issues/1056) $|47.00%|Easy|
+|1055|[Shortest Way to Form String ](https://github.com/grandyang/leetcode/issues/1055) $|57.20%|Medium|
+|1054|[Distant Barcodes](https://github.com/grandyang/leetcode/issues/1054)|44.20%|Medium|
+|1053|[Previous Permutation With One Swap](https://github.com/grandyang/leetcode/issues/1053)|51.20%|Medium|
+|1052|[Grumpy Bookstore Owner](https://github.com/grandyang/leetcode/issues/1052)|55.90%|Medium|
+|1051|[Height Checker](https://github.com/grandyang/leetcode/issues/1051)|72.10%|Easy|
 |1050|Actors and Directors Who Cooperated At Least Three Times * $|72.40%|Easy|
 |1049|[Last Stone Weight II](https://github.com/grandyang/leetcode/issues/1049)|45.40%|Medium|
 |1048|[Longest String Chain](https://github.com/grandyang/leetcode/issues/1048)|55.50%|Medium|
@@ -1069,6 +1109,7 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 |3|[Longest Substring Without Repeating Characters](https://github.com/grandyang/leetcode/issues/3)|20.60%|Medium|
 |2|[Add Two Numbers](https://github.com/grandyang/leetcode/issues/2)|21.10%|Medium|
 |1|[Two Sum](https://github.com/grandyang/leetcode/issues/1)|17.70%|Medium|
+
 
 
 
