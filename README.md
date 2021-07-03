@@ -17,12 +17,52 @@ Same as this: [LeetCode All in One 题目讲解汇总(持续更新中...)](https
 
 Note: All explanations are written in Github Issues, **please do not create any new issue or pull request in this project since the problem index should be consistent with the issue index**, thanks!
 
-('$' means the problem is locked on Leetcode, '*' means the problem is related to Database, '#' means the problem is related to Shell.)
+('$' means the problem is locked on Leetcode, '*' means the problem is related to Database, '#' means the problem is related to Shell, '~' means the concurrency problems.)
 
 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1150|Check If a Number Is Majority Element in a Sorted Array  $|57.10%|Easy|
+|1149|Article Views II * $|48.20%|Medium|
+|1148|Article Views I * $|77.10%|Easy|
+|1147|[Longest Chunked Palindrome Decomposition](https://github.com/grandyang/leetcode/issues/1147)|59.80%|Hard|
+|1146|[Snapshot Array](https://github.com/grandyang/leetcode/issues/1146)|37.00%|Medium|
+|1145|[Binary Tree Coloring Game](https://github.com/grandyang/leetcode/issues/1145)|51.10%|Medium|
+|1144|[Decrease Elements To Make Array Zigzag](https://github.com/grandyang/leetcode/issues/1144)|46.50%|Medium|
+|1143|[Longest Common Subsequence](https://github.com/grandyang/leetcode/issues/1143)|58.80%|Medium|
+|1142|User Activity for the Past 30 Days II * $|35.50%|Easy|
+|1141|User Activity for the Past 30 Days I * $|54.60%|Easy|
+|1140|[Stone Game II](https://github.com/grandyang/leetcode/issues/1140)|64.60%|Medium|
+|1139|[Largest 1-Bordered Square](https://github.com/grandyang/leetcode/issues/1139)|48.70%|Medium|
+|1138|[Alphabet Board Path](https://github.com/grandyang/leetcode/issues/1138)|51.60%|Medium|
+|1137|[N-th Tribonacci Number](https://github.com/grandyang/leetcode/issues/1137)|55.70%|Easy|
+|1136|Parallel Courses  $|60.70%|Medium|
+|1135|Connecting Cities With Minimum Cost  $|60.00%|Easy|
+|1134|Armstrong Number  $|78.50%|Easy|
+|1133|Largest Unique Number  $|67.20%|Easy|
+|1132|Reported Posts II * $|34.40%|Medium|
+|1131|[Maximum of Absolute Value Expression](https://github.com/grandyang/leetcode/issues/1131)|51.30%|Medium|
+|1130|[Minimum Cost Tree From Leaf Values](https://github.com/grandyang/leetcode/issues/1130)|67.40%|Medium|
+|1129|[Shortest Path with Alternating Colors](https://github.com/grandyang/leetcode/issues/1129)|40.70%|Medium|
+|1128|[Number of Equivalent Domino Pairs](https://github.com/grandyang/leetcode/issues/1128)|45.90%|Easy|
+|1127|User Purchase Platform * $|50.80%|Hard|
+|1126|Active Businesses * $|68.40%|Medium|
+|1125|[Smallest Sufficient Team](https://github.com/grandyang/leetcode/issues/1125)|47.20%|Hard|
+|1124|[Longest Well-Performing Interval](https://github.com/grandyang/leetcode/issues/1124)|33.50%|Medium|
+|1123|[Lowest Common Ancestor of Deepest Leaves](https://github.com/grandyang/leetcode/issues/1123)|68.50%|Medium|
+|1122|[Relative Sort Array](https://github.com/grandyang/leetcode/issues/1122)|67.90%|Easy|
+|1121|Divide Array Into Increasing Sequences  $|59.00%|Hard|
+|1120|Maximum Average Subtree  $|64.50%|Medium|
+|1119|Remove Vowels from a String  $|90.50%|Easy|
+|1118|Number of Days in a Month  $|57.30%|Easy|
+|1117|Building H2O ~|53.10%|Medium|
+|1116|Print Zero Even Odd ~|58.20%|Medium|
+|1115|Print FooBar Alternately ~|59.00%|Medium|
+|1114|Print in Order ~|67.60%|Easy|
+|1113|Reported Posts * $|66.40%|Medium|
+|1112|Highest Grade For Each Student * $|72.80%|Medium|
+|1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/grandyang/leetcode/issues/1111)|72.70%|Medium|
 |1110|[Delete Nodes And Return Forest](https://github.com/grandyang/leetcode/issues/1110)|68.00%|Medium|
 |1109|[Corporate Flight Bookings](https://github.com/grandyang/leetcode/issues/1109)|54.30%|Medium|
 |1108|[Defanging an IP Address](https://github.com/grandyang/leetcode/issues/1108)|88.40%|Easy|
