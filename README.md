@@ -23,6 +23,56 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1200|[Minimum Absolute Difference](https://github.com/grandyang/leetcode/issues/1200)|67.30%|Easy|
+|1199|Minimum Time to Build Blocks  $|39.40%|Hard|
+|1198|Find Smallest Common Element in All Rows  $|76.30%|Medium|
+|1197|Minimum Knight Moves  $|38.60%|Medium|
+|1196|How Many Apples Can You Put into the Basket  $|68.30%|Easy|
+|1195|Fizz Buzz Multithreaded ~|71.40%|Medium|
+|1194|Tournament Winners  *|52.70%|Hard|
+|1193|Monthly Transactions I  *|68.70%|Medium|
+|1192|[Critical Connections in a Network](https://github.com/grandyang/leetcode/issues/1192)|51.80%|Hard|
+|1191|[K-Concatenation Maximum Sum](https://github.com/grandyang/leetcode/issues/1191)|24.60%|Medium|
+|1190|[Reverse Substrings Between Each Pair of Parentheses](https://github.com/grandyang/leetcode/issues/1190)|65.00%|Medium|
+|1189|[Maximum Number of Balloons](https://github.com/grandyang/leetcode/issues/1189)|62.00%|Easy|
+|1188|Design Bounded Blocking Queue ~|73.20%|Medium|
+|1187|[Make Array Strictly Increasing](https://github.com/grandyang/leetcode/issues/1187)|43.80%|Hard|
+|1186|[Maximum Subarray Sum with One Deletion](https://github.com/grandyang/leetcode/issues/1186)|39.80%|Medium|
+|1185|[Day of the Week](https://github.com/grandyang/leetcode/issues/1185)|59.90%|Easy|
+|1184|[Distance Between Bus Stops](https://github.com/grandyang/leetcode/issues/1184)|53.90%|Easy|
+|1183|Maximum Number of Ones  $|58.70%|Hard|
+|1182|Shortest Distance to Target Color  $|54.30%|Medium|
+|1181|Before and After Puzzle  $|44.70%|Medium|
+|1180|Count Substrings with Only One Distinct Letter  $|78.30%|Easy|
+|1179|Reformat Department Table  *|82.10%|Easy|
+|1178|[Number of Valid Words for Each Puzzle](https://github.com/grandyang/leetcode/issues/1178)|40.80%|Hard|
+|1177|[Can Make Palindrome from Substring](https://github.com/grandyang/leetcode/issues/1177)|36.50%|Medium|
+|1176|Diet Plan Performance  $|53.50%|Easy|
+|1175|[Prime Arrangements](https://github.com/grandyang/leetcode/issues/1175)|51.90%|Medium|
+|1174|Immediate Food Delivery II  *|63.10%|Medium|
+|1173|Immediate Food Delivery I  *|83.10%|Easy|
+|1172|[Dinner Plate Stacks](https://github.com/grandyang/leetcode/issues/1172)|36.40%|Hard|
+|1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://github.com/grandyang/leetcode/issues/1171)|41.90%|Medium|
+|1170|[Compare Strings by Frequency of the Smallest Character](https://github.com/grandyang/leetcode/issues/1170)|60.60%|Medium|
+|1169|[Invalid Transactions](https://github.com/grandyang/leetcode/issues/1169)|30.40%|Medium|
+|1168|Optimize Water Distribution in a Village  $|62.30%|Hard|
+|1167|Minimum Cost to Connect Sticks  $|65.70%|Medium|
+|1166|Design File System  $|59.00%|Medium|
+|1165|Single-Row Keyboard  $|85.50%|Easy|
+|1164|Product Price at a Given Date  *|69.00%|Medium|
+|1163|[Last Substring in Lexicographical Order](https://github.com/grandyang/leetcode/issues/1163)|36.00%|Hard|
+|1162|[As Far from Land as Possible](https://github.com/grandyang/leetcode/issues/1162)|46.60%|Medium|
+|1161|[Maximum Level Sum of a Binary Tree](https://github.com/grandyang/leetcode/issues/1161)|67.50%|Medium|
+|1160|[Find Words That Can Be Formed by Characters](https://github.com/grandyang/leetcode/issues/1160)|67.80%|Easy|
+|1159|Market Analysis II  *|57.00%|Hard|
+|1158|Market Analysis I  *|65.00%|Medium|
+|1157|[Online Majority Element In Subarray](https://github.com/grandyang/leetcode/issues/1157)|41.60%|Hard|
+|1156|[Swap For Longest Repeated Character Substring](https://github.com/grandyang/leetcode/issues/1156)|47.20%|Medium|
+|1155|[Number of Dice Rolls With Target Sum](https://github.com/grandyang/leetcode/issues/1155)|47.70%|Medium|
+|1154|[Day of the Year](https://github.com/grandyang/leetcode/issues/1154)|50.10%|Easy|
+|1153|String Transforms Into Another String  $|35.60%|Hard|
+|1152|Analyze User Website Visit Pattern  $|43.20%|Medium|
+|1151|Minimum Swaps to Group All 1's Together  $|51.90%|Medium|
 |1150|Check If a Number Is Majority Element in a Sorted Array  $|57.10%|Easy|
 |1149|Article Views II * $|48.20%|Medium|
 |1148|Article Views I * $|77.10%|Easy|
@@ -1120,7 +1170,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |53|[Maximum Subarray](https://github.com/grandyang/leetcode/issues/53)|34.50%|Medium|
 |52|[N-Queens II](https://github.com/grandyang/leetcode/issues/52)|35.80%|Hard|
 |51|[N-Queens](https://github.com/grandyang/leetcode/issues/51)|26.50%|Hard|
-|50|"Pow(x| n)"|26.70%|
+|50|[Pow(x, n)](https://github.com/grandyang/leetcode/issues/50)|26.70%|
 |49|[Anagrams](https://github.com/grandyang/leetcode/issues/49)|24.30%|Medium|
 |48|[Rotate Image](https://github.com/grandyang/leetcode/issues/48)|31.90%|Medium|
 |47|[Permutations II](https://github.com/grandyang/leetcode/issues/47)|25.80%|Hard|
@@ -1170,6 +1220,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |3|[Longest Substring Without Repeating Characters](https://github.com/grandyang/leetcode/issues/3)|20.60%|Medium|
 |2|[Add Two Numbers](https://github.com/grandyang/leetcode/issues/2)|21.10%|Medium|
 |1|[Two Sum](https://github.com/grandyang/leetcode/issues/1)|17.70%|Medium|
+
 
 
 
