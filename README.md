@@ -23,6 +23,36 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1230|Toss Strange Coins  $|50.80%|Medium|
+|1229|Meeting Scheduler  $|54.70%|Medium|
+|1228|Missing Number In Arithmetic Progression  $|51.20%|Medium|
+|1227|[Airplane Seat Assignment Probability](https://github.com/grandyang/leetcode/issues/1227)|63.00%|Medium|
+|1226|The Dining Philosophers ~|60.20%|Medium|
+|1225|Report Contiguous Dates  *|63.80%|Hard|
+|1224|[Maximum Equal Frequency](https://github.com/grandyang/leetcode/issues/1224)|36.20%|Hard|
+|1223|[Dice Roll Simulation](https://github.com/grandyang/leetcode/issues/1223)|47.40%|Hard|
+|1222|[Queens That Can Attack the King](https://github.com/grandyang/leetcode/issues/1222)|70.20%|Medium|
+|1221|[Split a String in Balanced Strings](https://github.com/grandyang/leetcode/issues/1221)|84.60%|Easy|
+|1220|[Count Vowels Permutation](https://github.com/grandyang/leetcode/issues/1220)|56.60%|Hard|
+|1219|[Path with Maximum Gold](https://github.com/grandyang/leetcode/issues/1219)|66.10%|Medium|
+|1218|[Longest Arithmetic Subsequence of Given Difference](https://github.com/grandyang/leetcode/issues/1218)|48.10%|Medium|
+|1217|[Minimum Cost to Move Chips to The Same Position](https://github.com/grandyang/leetcode/issues/1217)|70.70%|Easy|
+|1216|Valid Palindrome III  $|50.80%|Hard|
+|1215|Stepping Numbers  $|44.60%|Medium|
+|1214|Two Sum BSTs  $|67.30%|Medium|
+|1213|Intersection of Three Sorted Arrays  $|79.80%|Easy|
+|1212|Team Scores in Football Tournament  *|57.00%|Medium|
+|1211|Queries Quality and Percentage  *|70.40%|Easy|
+|1210|[Minimum Moves to Reach Target with Rotations](https://github.com/grandyang/leetcode/issues/1210)|47.50%|Hard|
+|1209|[Remove All Adjacent Duplicates in String II](https://github.com/grandyang/leetcode/issues/1209)|56.40%|Medium|
+|1208|[Get Equal Substrings Within Budget](https://github.com/grandyang/leetcode/issues/1208)|45.30%|Medium|
+|1207|[Unique Number of Occurrences](https://github.com/grandyang/leetcode/issues/1207)|72.40%|Easy|
+|1206|[Design Skiplist](https://github.com/grandyang/leetcode/issues/1206)|59.60%|Hard|
+|1205|Monthly Transactions II  *|45.30%|Medium|
+|1204|Last Person to Fit in the Bus  *|73.00%|Medium|
+|1203|[Sort Items by Groups Respecting Dependencies](https://github.com/grandyang/leetcode/issues/1203)|48.80%|Hard|
+|1202|[Smallest String With Swaps](https://github.com/grandyang/leetcode/issues/1202)|50.50%|Medium|
+|1201|[Ugly Number III](https://github.com/grandyang/leetcode/issues/1201)|27.20%|Medium|
 |1200|[Minimum Absolute Difference](https://github.com/grandyang/leetcode/issues/1200)|67.30%|Easy|
 |1199|Minimum Time to Build Blocks  $|39.40%|Hard|
 |1198|Find Smallest Common Element in All Rows  $|76.30%|Medium|
