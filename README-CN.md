@@ -22,6 +22,36 @@ Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中�
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1260|[Shift 2D Grid](https://github.com/grandyang/leetcode/issues/1260)|62.10%|Easy|
+|1259|Handshakes That Don't Cross  $|54.40%|Hard|
+|1258|Synonymous Sentences  $|57.40%|Medium|
+|1257|Smallest Common Region  $|62.10%|Medium|
+|1256|Encode Number  $|69.00%|Medium|
+|1255|[Maximum Score Words Formed by Letters](https://github.com/grandyang/leetcode/issues/1255)|71.30%|Hard|
+|1254|[Number of Closed Islands](https://github.com/grandyang/leetcode/issues/1254)|62.70%|Medium|
+|1253|[Reconstruct a 2-Row Binary Matrix](https://github.com/grandyang/leetcode/issues/1253)|42.70%|Medium|
+|1252|[Cells with Odd Values in a Matrix](https://github.com/grandyang/leetcode/issues/1252)|78.50%|Easy|
+|1251|Average Selling Price * $|83.20%|Easy|
+|1250|[Check If It Is a Good Array](https://github.com/grandyang/leetcode/issues/1250)|57.50%|Hard|
+|1249|[Minimum Remove to Make Valid Parentheses](https://github.com/grandyang/leetcode/issues/1249)|65.00%|Medium|
+|1248|[Count Number of Nice Subarrays](https://github.com/grandyang/leetcode/issues/1248)|57.60%|Medium|
+|1247|[Minimum Swaps to Make Strings Equal](https://github.com/grandyang/leetcode/issues/1247)|63.60%|Medium|
+|1246|Palindrome Removal  $|45.80%|Hard|
+|1245|Tree Diameter  $|62.00%|Medium|
+|1244|Design A Leaderboard  $|67.30%|Medium|
+|1243|Array Transformation  $|50.10%|Easy|
+|1242|Web Crawler Multithreaded ~ $|48.20%|Medium|
+|1241|Number of Comments per Post * $|68.00%|Easy|
+|1240|[Tiling a Rectangle with the Fewest Squares](https://github.com/grandyang/leetcode/issues/1240)|52.40%|Hard|
+|1239|[Maximum Length of a Concatenated String with Unique Characters](https://github.com/grandyang/leetcode/issues/1239)|50.70%|Medium|
+|1238|[Circular Permutation in Binary Representation](https://github.com/grandyang/leetcode/issues/1238)|67.90%|Medium|
+|1237|[Find Positive Integer Solution for a Given Equation](https://github.com/grandyang/leetcode/issues/1237)|69.70%|Medium|
+|1236|Web Crawler  $|65.40%|Medium|
+|1235|[Maximum Profit in Job Scheduling](https://github.com/grandyang/leetcode/issues/1235)|50.50%|Hard|
+|1234|[Replace the Substring for Balanced String](https://github.com/grandyang/leetcode/issues/1234)|35.50%|Medium|
+|1233|[Remove Sub-Folders from the Filesystem](https://github.com/grandyang/leetcode/issues/1233)|64.50%|Medium|
+|1232|[Check If It Is a Straight Line](https://github.com/grandyang/leetcode/issues/1232)|42.30%|Easy|
+|1231|Divide Chocolate  $|55.50%|Hard|
 |1230|Toss Strange Coins  $|50.80%|Medium|
 |1229|Meeting Scheduler  $|54.70%|Medium|
 |1228|Missing Number In Arithmetic Progression  $|51.20%|Medium|
