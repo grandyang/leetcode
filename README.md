@@ -23,6 +23,38 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/grandyang/leetcode/issues/1292)|52.10%|Medium|
+|1291|[Sequential Digits](https://github.com/grandyang/leetcode/issues/1291)|60.90%|Medium|
+|1290|[Convert Binary Number in a Linked List to Integer](https://github.com/grandyang/leetcode/issues/1290)|82.70%|Easy|
+|1289|[Minimum Falling Path Sum II](https://github.com/grandyang/leetcode/issues/1289)|61.20%|Hard|
+|1288|[Remove Covered Intervals](https://github.com/grandyang/leetcode/issues/1288)|57.40%|Medium|
+|1287|[Element Appearing More Than 25% In Sorted Array](https://github.com/grandyang/leetcode/issues/1287)|59.50%|Easy|
+|1286|[Iterator for Combination](https://github.com/grandyang/leetcode/issues/1286)|73.20%|Medium|
+|1285|Find the Start and End Number of Continuous Ranges * $|88.30%|Medium|
+|1284|[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://github.com/grandyang/leetcode/issues/1284)|72.00%|Hard|
+|1283|[Find the Smallest Divisor Given a Threshold](https://github.com/grandyang/leetcode/issues/1283)|53.70%|Medium|
+|1282|[Group the People Given the Group Size They Belong To](https://github.com/grandyang/leetcode/issues/1282)|85.20%|Medium|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://github.com/grandyang/leetcode/issues/1281)|86.30%|Easy|
+|1280|Students and Examinations * $|74.60%|Easy|
+|1279|Traffic Light Controlled Intersection ~ $|75.30%|Easy|
+|1278|[Palindrome Partitioning III](https://github.com/grandyang/leetcode/issues/1278)|60.90%|Hard|
+|1277|[Count Square Submatrices with All Ones](https://github.com/grandyang/leetcode/issues/1277)|74.20%|Medium|
+|1276|[Number of Burgers with No Waste of Ingredients](https://github.com/grandyang/leetcode/issues/1276)|50.60%|Medium|
+|1275|[Find Winner on a Tic Tac Toe Game](https://github.com/grandyang/leetcode/issues/1275)|54.90%|Easy|
+|1274|Number of Ships in a Rectangle  $|68.60%|Hard|
+|1273|Delete Tree Nodes  $|61.20%|Medium|
+|1272|Remove Interval  $|61.10%|Medium|
+|1271|Hexspeak  $|56.30%|Easy|
+|1270|All People Report to the Given Manager * $|88.10%|Medium|
+|1269|[Number of Ways to Stay in the Same Place After Some Steps](https://github.com/grandyang/leetcode/issues/1269)|43.40%|Hard|
+|1268|[Search Suggestions System](https://github.com/grandyang/leetcode/issues/1268)|65.40%|Medium|
+|1267|Count Servers that Communicate|58.30%|Medium|
+|1266|[Minimum Time Visiting All Points](https://github.com/grandyang/leetcode/issues/1266)|79.20%|Easy|
+|1265|Print Immutable Linked List in Reverse  $|94.30%|Medium|
+|1264|Page Recommendations * $|67.70%|Medium|
+|1263|[Minimum Moves to Move a Box to Their Target Location](https://github.com/grandyang/leetcode/issues/1263)|48.30%|Hard|
+|1262|[Greatest Sum Divisible by Three](https://github.com/grandyang/leetcode/issues/1262)|50.80%|Medium|
+|1261|[Find Elements in a Contaminated Binary Tree](https://github.com/grandyang/leetcode/issues/1261)|75.70%|Medium|
 |1260|[Shift 2D Grid](https://github.com/grandyang/leetcode/issues/1260)|62.10%|Easy|
 |1259|Handshakes That Don't Cross  $|54.40%|Hard|
 |1258|Synonymous Sentences  $|57.40%|Medium|
