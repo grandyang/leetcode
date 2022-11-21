@@ -23,6 +23,34 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1320|[Minimum Distance to Type a Word Using Two Fingers](https://github.com/grandyang/leetcode/issues/1320)|59.80%|Hard|
+|1319|[Number of Operations to Make Network Connected](https://github.com/grandyang/leetcode/issues/1319)|58.50%|Medium|
+|1318|[Minimum Flips to Make a OR b Equal to c](https://github.com/grandyang/leetcode/issues/1318)|66.00%|Medium|
+|1317|[Convert Integer to the Sum of Two No-Zero Integers](https://github.com/grandyang/leetcode/issues/1317)|56.00%|Easy|
+|1316|[Distinct Echo Substrings](https://github.com/grandyang/leetcode/issues/1316)|49.70%|Hard|
+|1315|[Sum of Nodes with Even-Valued Grandparent](https://github.com/grandyang/leetcode/issues/1315)|85.60%|Medium|
+|1314|[Matrix Block Sum](https://github.com/grandyang/leetcode/issues/1314)|75.40%|Medium|
+|1313|[Decompress Run-Length Encoded List](https://github.com/grandyang/leetcode/issues/1313)|85.90%|Easy|
+|1312|[Minimum Insertion Steps to Make a String Palindrome](https://github.com/grandyang/leetcode/issues/1312)|65.70%|Hard|
+|1311|[Get Watched Videos by Your Friends](https://github.com/grandyang/leetcode/issues/1311)|45.90%|Medium|
+|1310|[XOR Queries of a Subarray](https://github.com/grandyang/leetcode/issues/1310)|72.20%|Medium|
+|1309|[Decrypt String from Alphabet to Integer Mapping](https://github.com/grandyang/leetcode/issues/1309)|79.50%|Easy|
+|1308|Running Total for Different Genders * $|88.20%|Medium|
+|1307|[Verbal Arithmetic Puzzle](https://github.com/grandyang/leetcode/issues/1307)|34.80%|Hard|
+|1306|[Jump Game III](https://github.com/grandyang/leetcode/issues/1306)|63.10%|Medium|
+|1305|[All Elements in Two Binary Search Trees](https://github.com/grandyang/leetcode/issues/1305)|79.80%|Medium|
+|1304|[Find N Unique Integers Sum up to Zero](https://github.com/grandyang/leetcode/issues/1304)|77.10%|Easy|
+|1303|Find the Team Size * $|90.80%|Easy|
+|1302|[Deepest Leaves Sum](https://github.com/grandyang/leetcode/issues/1302)|86.90%|Medium|
+|1301|[Number of Paths with Max Score](https://github.com/grandyang/leetcode/issues/1301)|38.70%|Hard|
+|1300|[Sum of Mutated Array Closest to Target](https://github.com/grandyang/leetcode/issues/1300)|43.10%|Medium|
+|1299|[Replace Elements with Greatest Element on Right Side](https://github.com/grandyang/leetcode/issues/1299)|74.70%|Easy|
+|1298|[Maximum Candies You Can Get from Boxes](https://github.com/grandyang/leetcode/issues/1298)|60.90%|Hard|
+|1297|[Maximum Number of Occurrences of a Substring](https://github.com/grandyang/leetcode/issues/1297)|52.00%|Medium|
+|1296|[Divide Array in Sets of K Consecutive Numbers](https://github.com/grandyang/leetcode/issues/1296)|56.60%|Medium|
+|1295|[Find Numbers with Even Number of Digits](https://github.com/grandyang/leetcode/issues/1295)|77.00%|Easy|
+|1294|Weather Type in Each Country * $|68.00%|Easy|
+|1293|[Shortest Path in a Grid with Obstacles Elimination](https://github.com/grandyang/leetcode/issues/1293)|45.60%|Hard|
 |1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/grandyang/leetcode/issues/1292)|52.10%|Medium|
 |1291|[Sequential Digits](https://github.com/grandyang/leetcode/issues/1291)|60.90%|Medium|
 |1290|[Convert Binary Number in a Linked List to Integer](https://github.com/grandyang/leetcode/issues/1290)|82.70%|Easy|
