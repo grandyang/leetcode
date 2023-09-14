@@ -23,6 +23,38 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1352|[Product of the Last K Numbers](https://github.com/grandyang/leetcode/issues/1352)|50.20%|Medium|
+|1351|[Count Negative Numbers in a Sorted Matrix](https://github.com/grandyang/leetcode/issues/1351)|77.30%|Easy|
+|1350|Students With Invalid Departments * $|89.90%|Easy|
+|1349|[Maximum Students Taking Exam](https://github.com/grandyang/leetcode/issues/1349)|49.80%|Hard|
+|1348|[Tweet Counts Per Frequency](https://github.com/grandyang/leetcode/issues/1348)|44.00%|Medium|
+|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://github.com/grandyang/leetcode/issues/1347)|78.00%|Medium|
+|1346|[Check If N and Its Double Exist](https://github.com/grandyang/leetcode/issues/1346)|36.70%|Easy|
+|1345|[Jump Game IV](https://github.com/grandyang/leetcode/issues/1345)|46.60%|Hard|
+|1344|[Angle Between Hands of a Clock](https://github.com/grandyang/leetcode/issues/1344)|63.40%|Medium|
+|1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/grandyang/leetcode/issues/1343)|68.10%|Medium|
+|1342|[Number of Steps to Reduce a Number to Zero](https://github.com/grandyang/leetcode/issues/1342)|84.90%|Easy|
+|1341|Movie Rating  *|43.80%|Medium|
+|1340|[Jump Game V](https://github.com/grandyang/leetcode/issues/1340)|62.60%|Hard|
+|1339|[Maximum Product of Splitted Binary Tree](https://github.com/grandyang/leetcode/issues/1339)|47.70%|Medium|
+|1338|[Reduce Array Size to The Half](https://github.com/grandyang/leetcode/issues/1338)|69.20%|Medium|
+|1337|[The K Weakest Rows in a Matrix](https://github.com/grandyang/leetcode/issues/1337)|71.40%|Easy|
+|1336|Number of Transactions per Visit  *|48.10%|Hard|
+|1335|[Minimum Difficulty of a Job Schedule](https://github.com/grandyang/leetcode/issues/1335)|58.30%|Hard|
+|1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://github.com/grandyang/leetcode/issues/1334)|57.70%|Medium|
+|1333|"Filter Restaurants by Vegan-Friendly| Price and Distance"|60.50%|
+|1332|[Remove Palindromic Subsequences](https://github.com/grandyang/leetcode/issues/1332)|76.20%|Easy|
+|1331|[Rank Transform of an Array](https://github.com/grandyang/leetcode/issues/1331)|59.80%|Easy|
+|1330|[Reverse Subarray To Maximize Array Value](https://github.com/grandyang/leetcode/issues/1330)|41.30%|Hard|
+|1329|[Sort the Matrix Diagonally](https://github.com/grandyang/leetcode/issues/1329)|83.00%|Medium|
+|1328|[Break a Palindrome](https://github.com/grandyang/leetcode/issues/1328)|52.10%|Medium|
+|1327|List the Products Ordered in a Period  *|71.90%|Easy|
+|1326|[Minimum Number of Taps to Open to Water a Garden](https://github.com/grandyang/leetcode/issues/1326)|51.60%|Hard|
+|1325|[Delete Leaves With a Given Value](https://github.com/grandyang/leetcode/issues/1325)|74.40%|Medium|
+|1324|[Print Words Vertically](https://github.com/grandyang/leetcode/issues/1324)|62.40%|Medium|
+|1323|[Maximum 69 Number](https://github.com/grandyang/leetcode/issues/1323)|82.00%|Easy|
+|1322|Ads Performance * $|60.10%|Easy|
+|1321|Restaurant Growth  *|53.40%|Medium|
 |1320|[Minimum Distance to Type a Word Using Two Fingers](https://github.com/grandyang/leetcode/issues/1320)|59.80%|Hard|
 |1319|[Number of Operations to Make Network Connected](https://github.com/grandyang/leetcode/issues/1319)|58.50%|Medium|
 |1318|[Minimum Flips to Make a OR b Equal to c](https://github.com/grandyang/leetcode/issues/1318)|66.00%|Medium|
