@@ -20,7 +20,6 @@ Note: All explanations are written in Github Issues, **please do not create any 
 ('$' means the problem is locked on Leetcode, '*' means the problem is related to Database, '#' means the problem is related to Shell, '~' means the concurrency problems.)
 
 
-
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1352|[Product of the Last K Numbers](https://github.com/grandyang/leetcode/issues/1352)|50.20%|Medium|
