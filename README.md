@@ -15,6 +15,9 @@ Provide all my solutions and explanations in Chinese for all the Leetcode coding
 
 Same as this: [LeetCode All in One 题目讲解汇总(持续更新中...)](https://www.cnblogs.com/grandyang/p/4606334.html)
 
+[Click below image to watch YouTube Video](https://www.youtube.com/playlist?list=PLZFoAdzIur8ii06R2KsX7Mct2PEuUh0tc)
+[![Video](https://raw.githubusercontent.com/grandyang/leetcode/master/podcast.png)](https://www.youtube.com/playlist?list=PLZFoAdzIur8ii06R2KsX7Mct2PEuUh0tc)
+
 Note: All explanations are written in Github Issues, **please do not create any new issue or pull request in this project since the problem index should be consistent with the issue index**, thanks!
 
 ('$' means the problem is locked on Leetcode, '*' means the problem is related to Database, '#' means the problem is related to Shell, '~' means the concurrency problems.)
