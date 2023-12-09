@@ -15,6 +15,9 @@
 
 与博客园上相同: [LeetCode All in One 题目讲解汇总(持续更新中...)](https://www.cnblogs.com/grandyang/p/4606334.html)
 
+[请点击下方图片观看讲解视频](https://www.youtube.com/playlist?list=PLZFoAdzIur8ii06R2KsX7Mct2PEuUh0tc)
+[![Video](https://raw.githubusercontent.com/grandyang/leetcode/master/podcast.png)](https://www.youtube.com/playlist?list=PLZFoAdzIur8ii06R2KsX7Mct2PEuUh0tc)
+
 Note: 所有的讲解写在了 GitHub Issue 上面, **请不要在本项目中新建任何的 Issue 或者 Pull Request，因为博主希望题目编号和 Issue 编号保持一致**，多谢！
 
 ('$' 代表锁住的题目, '*' 代表数据库类题目, '#' 代表脚本类题目, '~' 代表并行类题目。)
